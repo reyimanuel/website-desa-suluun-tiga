@@ -21,6 +21,7 @@ export default function RootLayout({
         <html lang="en">
             <head>
                 <meta name="google-site-verification" content="googleb203f806e1fe859b.html" />
+                <link rel="icon" href="/logo.ico" />
             </head>
             <body className={`${inter.className} bg-gray-900 text-white`}>
                 <div className="min-h-screen flex flex-col">
