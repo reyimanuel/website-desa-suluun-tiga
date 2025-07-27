@@ -49,7 +49,7 @@ export default function HomePage() {
                 subtitle="Masyarakat yang Harmonis, Alam yang Indah"
                 primaryButton={{ text: "Kenal Lebih Dalam Dengan Desa Suluun", href: "/information" }}
                 secondaryButton={{ text: "Pengumuman", href: "/announcements" }}
-                backgroundImage="/cover.jpg"
+                backgroundImage="/cover.png"
             />
 
             <OrganizationStructure />
