@@ -206,7 +206,7 @@ export function VillageStatisticSection() {
                                             <td className="text-center py-4 px-4 text-emerald-400 font-bold text-xl">
                                                 {reportData.finalPopulation.total}
                                             </td>
-                                            <td className="text-center py-4 px-4 text-gray-100">{reportData.finalPopulation.households}</td>
+                                            <td className="text-center py-4 px-4 text-blue-400">{reportData.finalPopulation.households}</td>
                                         </tr>
                                     </tbody>
                                 </table>
